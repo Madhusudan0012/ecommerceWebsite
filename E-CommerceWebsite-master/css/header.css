@@ -65,7 +65,7 @@ body
     /* color: gray; */
     color: rgb(29, 29, 29);
     min-width: 25px;
-    text-align: center;
+    text-align: right;
     position: absolute;
 }
 

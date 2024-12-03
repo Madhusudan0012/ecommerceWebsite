@@ -5,12 +5,19 @@ body
 }
 h1
 {
-    width: 90%;
-    margin: auto;
-    padding: 50px 0;
-    letter-spacing: 2px;
-    font-weight: 700;
-    text-transform: capitalize;
+    
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        height: 10vh; /* Full viewport height */
+        width: 10%; /* Full width */
+        text-align: center; /* Align text to center (optional) */
+    
+        width: 90%;
+        margin: auto;
+        padding: 50px 0;
+        letter-spacing: 2px
+    
 }
 #containerClothing, #containerAccessories
 {
